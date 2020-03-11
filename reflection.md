@@ -1,5 +1,7 @@
 # Reflection by Add Your Name Here
 
+TODO: Make sure that you delete all of the prompts from this document
+
 ## Final Summary Task List for the Laboratory Assignment
 
 - [ ] Contributed to the GitHub Issue Tracker
